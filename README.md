@@ -10,13 +10,13 @@ The dataset is sourced from Guangzhou Women and Children’s Medical Center and 
 chest_xray/
 │
 ├── train/
-│   ├── NORMAL/
-│   └── PNEUMONIA/
+│ ├── NORMAL/
+│ └── PNEUMONIA/
 │
 ├── val/
-│   ├── NORMAL/
-│   └── PNEUMONIA/
+│ ├── NORMAL/
+│ └── PNEUMONIA/
 │
 └── test/
-    ├── NORMAL/
-    └── PNEUMONIA/
+├── NORMAL/
+└── PNEUMONIA/
