@@ -7,6 +7,7 @@ Kaggle Dataset:
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 The dataset is sourced from Guangzhou Women and Children’s Medical Center and contains carefully labeled pediatric chest X-ray images.
+
 chest_xray/
 │
 ├── train/
